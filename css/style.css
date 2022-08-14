@@ -78,6 +78,7 @@ header {
 .first-section {
 	background-color: #d4e2d6;
 	background-image: url("../img/padrao.jpg");
+	background-size: auto;
 }
 
 
@@ -90,7 +91,7 @@ header {
 	background-color: #F7F3F3;
 	margin-top: 25px;
 	padding: 30px 55px;
-	border-radius: 8px;
+	border-radius: 50px;
 }
 
 @media (min-width: 768px) {
