@@ -1,0 +1,186 @@
+li{
+	margin-bottom: 8px;
+}
+
+body {
+	color: #4a4a4a
+}
+
+
+.modal-body p {
+color: white;
+}
+
+.form-check-label {
+	font-size: 15px;
+}
+
+.modal-content {
+	background-image: url("../img/dog-header.png");
+	background-repeat: no-repeat;
+	background-position:  center bottom;
+	background-size: cover;
+}
+
+/* Text border */
+.text-border {
+    text-shadow: 1px 0px 0px black, 
+                 -1px 0px 0px black, 
+                 0px 1px 0px black, 
+                 0px -1px 0px black;
+    color: #FFF;
+}
+
+form {
+	color: white;
+}
+
+.border:{
+	border-radius: 500px;
+}
+.nav-item {
+	margin: 10px 16px;
+}
+
+.navbar-brand img {
+	height: 30px;
+	width: 30px;
+	margin-right: 0px;
+	margin-bottom: 7px;
+}
+
+header {
+	background-color: #F0F8FF;
+	background-image: url("../img/puppies.jpg");
+	background-size: cover;
+	background-position: 50% 10%;
+	background-repeat: no-repeat;
+	padding: 140px 0 100px;	
+	color: white;
+}
+
+@media (min-width: 576px) {
+	header {
+		padding: 200px 0;
+	}
+}
+
+@media (min-width: 576px) {
+	h1 {
+		font-size: 48px;
+	}
+}
+
+.section {
+	padding: 60px 0 40px;
+}
+
+.first-section {
+	background-color: #d4e2d6;
+	background-image: url("../img/padrao.jpg");
+}
+
+
+.first-section img {
+	margin-bottom:  35px;
+	margin-top:  10px;
+}
+
+.first-section ul {
+	background-color: #F7F3F3;
+	margin-top: 25px;
+	padding: 30px 55px;
+	border-radius: 8px;
+}
+
+@media (min-width: 768px) {
+	.first-section img {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 992px) {
+	.first-section img {
+		margin-bottom: 0;
+	}
+}
+
+@media (min-width: 576px) {
+	h1 {
+		font-size: 48px;
+	}
+}
+
+
+@media (min-width: 576px) {
+	.section {
+		padding: 100px 0;
+	}
+}
+
+
+.second-section {
+	background-color: #F7F3F3;
+}
+
+.second-section {
+	padding:  110px 110px;
+}
+
+.second-section p {
+	color: #9DA2A6;
+	font-size: 16px;
+}
+
+.second-section img {
+	height: 75px;
+	margin: 25px 0 10px;
+	width: 75px;
+}
+
+
+.third-section {
+	background-color: #84615C;
+	background-image: url("../img/puppy-in-a-box.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 40%;
+}
+
+.third-section img {
+	margin-top: 35px;
+}
+
+.third-section p {
+	color: #000000;
+	font-size: 16px;
+	
+}
+.third-section h2 {
+	color: #000000;
+	font-size: 20px;
+}
+
+@media (min-width: 768px) {
+	.third-section img {
+		-webkit-margin-top-collapse: separate;
+	}
+}
+
+.fourth-section {
+	background-color: #F0F8FF;
+	background-image: url("../img/dogs-pattern.png");
+	background-repeat: repeat;
+	background-size: 192px 192px; 
+}
+
+footer {
+	background-color: white;
+	padding: 15px 0;
+}
+
+.footer-logo {
+	height: 22px;
+	margin-bottom: 3px;
+	width: 22px;
+}
