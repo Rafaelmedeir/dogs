@@ -142,7 +142,7 @@ header {
 
 .third-section {
 	background-color: #84615C;
-	background-image: url("../img/puppy-in-a-box.jpg");
+	background-image: url("../img/puppy-in-a-box.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 40%;
@@ -185,3 +185,4 @@ footer {
 	margin-bottom: 3px;
 	width: 22px;
 }
+
